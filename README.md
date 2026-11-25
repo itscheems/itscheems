@@ -5,16 +5,16 @@
 </h1>
 
 <p align="center">
-  <em>Still figuring this shit out and enjoying the absurdity along the way.</em><br>
+  <em><sub>Still figuring this shit out and enjoying the absurdity along the way.</sub></em><br>
   <em><sub>Lately AI agents and developer tools. Before that, trading systems.</sub></em>
 </p>
 
 <p align="center">
-  <sub><em>
+  <em>
     ex-<a href="https://github.com/nexu-io">@OpenDesign</a>
     · ex-<a href="https://github.com/megvii-research">@Megvii</a>
     · ex-<a href="https://github.com/tencent">@Tencent</a>
-  </em></sub>
+  </em>
 </p>
 
 <p align="center">
