@@ -35,4 +35,6 @@
 -->
 
 ## GitHub Activity
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="650" />
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="650" />
+</p>
